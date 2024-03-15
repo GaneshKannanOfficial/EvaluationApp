@@ -1,0 +1,20 @@
+{
+  "name": "mailappreact-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chart.js": "^4.4.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.9.12",
+    "pdfkit": "^0.14.0",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^17.0.2"
+  }
+}
